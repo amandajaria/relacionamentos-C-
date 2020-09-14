@@ -1,0 +1,10 @@
+C:\Users\Jhonny\Desktop\pen drive Lummy\LummyPOO\Projeto_P2\Projeto_P2\obj\Debug\Projeto_P2.csprojAssemblyReference.cache
+C:\Users\Jhonny\Desktop\pen drive Lummy\LummyPOO\Projeto_P2\Projeto_P2\obj\Debug\Projeto_P2.Form1.resources
+C:\Users\Jhonny\Desktop\pen drive Lummy\LummyPOO\Projeto_P2\Projeto_P2\obj\Debug\Projeto_P2.Properties.Resources.resources
+C:\Users\Jhonny\Desktop\pen drive Lummy\LummyPOO\Projeto_P2\Projeto_P2\obj\Debug\Projeto_P2.csproj.GenerateResource.cache
+C:\Users\Jhonny\Desktop\pen drive Lummy\LummyPOO\Projeto_P2\Projeto_P2\obj\Debug\Projeto_P2.csproj.CoreCompileInputs.cache
+C:\Users\Jhonny\Desktop\pen drive Lummy\LummyPOO\Projeto_P2\Projeto_P2\bin\Debug\Projeto_P2.exe.config
+C:\Users\Jhonny\Desktop\pen drive Lummy\LummyPOO\Projeto_P2\Projeto_P2\bin\Debug\Projeto_P2.exe
+C:\Users\Jhonny\Desktop\pen drive Lummy\LummyPOO\Projeto_P2\Projeto_P2\bin\Debug\Projeto_P2.pdb
+C:\Users\Jhonny\Desktop\pen drive Lummy\LummyPOO\Projeto_P2\Projeto_P2\obj\Debug\Projeto_P2.exe
+C:\Users\Jhonny\Desktop\pen drive Lummy\LummyPOO\Projeto_P2\Projeto_P2\obj\Debug\Projeto_P2.pdb
